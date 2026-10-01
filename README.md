@@ -12,7 +12,7 @@
 - 🔭 **Working:** Software Engineer @ Chatforce (Drive Capital).
 - 👾 **Creating:** Founder/Lead @ Bronze Bat Studio (**3M+ plays**, 7 titles).
 - 🏆 **Hacking:** 1st Overall @ Cal Hacks AI ($8k), Top 5 @ Hack the Six.
-- 🎓 **Studying:** CS @ UofT (3.94 GPA) & leading dev teams @ UofT Blueprint.
+- 🎓 **Studying:** CS @ UofT (3.94 GPA) & leading dev team @ UofT Blueprint.
 - 🌱 **Learning:** Three.js and advanced game-state architectures.
 
 ### 🛠️ Tech Stack
